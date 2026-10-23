@@ -28,5 +28,5 @@ Site data: site001-site007 were extracted from the Global_EPTO_Database.csv and 
 Liu, G., Lin, Z., Soininen, J., Dalu, T., Juvigny-Khenafou, N.P.D., Khan, S., Mu, H., Oduro, C., Qi, X., Qu, X., Riis, T., Wijewardenec, L., Zhang, M., Li, J., Wu, Y. & Wu, N. 2025. Standardized diversity estimation uncovers global distribution patterns and drivers of stream insects. npj biodivers 4, 27 (2025). https://doi.org/10.1038/s44185-025-00098-2
 
 <div align="center">
-  <img width="784" height="358" alt="image" src="你的图片链接" />
+  <img width="746" height="352" alt="image" src="https://github.com/user-attachments/assets/b996c744-f291-4c40-b573-bb7bfaee4491" />
 </div>
