@@ -3,6 +3,10 @@
 ## Overview 
 This is a project to explore global freshwater insect diversity and the drivers. Key environmental and anthropogenic factors affecting freshwater insect diversity were revealed by analyzing the diversity of freshwater insects in different regions of the globe (extracted from the EPTO database: https://glowabio.org/project/epto_database/).
 
+<div align="center">
+  <img width="746" height="352" alt="image" src="https://github.com/user-attachments/assets/b996c744-f291-4c40-b573-bb7bfaee4491" />
+</div>
+
 ## Environmental Requirements 
 
 ### Raw data
@@ -27,6 +31,3 @@ Site data: site001-site007 were extracted from the Global_EPTO_Database.csv and 
 ## Data and code for the paper:
 Liu, G., Lin, Z., Soininen, J., Dalu, T., Juvigny-Khenafou, N.P.D., Khan, S., Mu, H., Oduro, C., Qi, X., Qu, X., Riis, T., Wijewardenec, L., Zhang, M., Li, J., Wu, Y. & Wu, N. 2025. Standardized diversity estimation uncovers global distribution patterns and drivers of stream insects. npj biodivers 4, 27 (2025). https://doi.org/10.1038/s44185-025-00098-2
 
-<div align="center">
-  <img width="746" height="352" alt="image" src="https://github.com/user-attachments/assets/b996c744-f291-4c40-b573-bb7bfaee4491" />
-</div>
